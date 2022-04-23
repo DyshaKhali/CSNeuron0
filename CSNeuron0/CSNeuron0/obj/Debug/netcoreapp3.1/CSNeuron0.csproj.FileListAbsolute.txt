@@ -1,0 +1,28 @@
+D:\My projects\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.exe
+D:\My projects\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.deps.json
+D:\My projects\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.runtimeconfig.json
+D:\My projects\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.runtimeconfig.dev.json
+D:\My projects\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.dll
+D:\My projects\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.pdb
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.csproj.AssemblyReference.cache
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.AssemblyInfoInputs.cache
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.AssemblyInfo.cs
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.csproj.CoreCompileInputs.cache
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.dll
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.pdb
+D:\My projects\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.genruntimeconfig.cache
+D:\C++\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.exe
+D:\C++\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.deps.json
+D:\C++\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.runtimeconfig.json
+D:\C++\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.runtimeconfig.dev.json
+D:\C++\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.dll
+D:\C++\CSNeuron0\CSNeuron0\bin\Debug\netcoreapp3.1\CSNeuron0.pdb
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.csproj.AssemblyReference.cache
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.AssemblyInfoInputs.cache
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.AssemblyInfo.cs
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.csproj.CoreCompileInputs.cache
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.dll
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.pdb
+D:\C++\CSNeuron0\CSNeuron0\obj\Debug\netcoreapp3.1\CSNeuron0.genruntimeconfig.cache
